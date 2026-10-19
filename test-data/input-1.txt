@@ -1,4 +1,4 @@
-#First 3 tests, if both have ammunition, they can fire 3 times.
+#if both have ammunition, they can fire 3 times.
 #Create the ship that can't fail, and has enough ammunition.
 GT4500,10,0,10,0
 TORPEDO,SINGLE  # should have fired from the primary store

@@ -1,0 +1,4 @@
+#It can shoot atleast one torpedo if it has ammunition in it's secondary, but no ammunition in it's primary, and it can never fail
+# Create a ship with enough ammunition in secondary, and zero in primary, neither can ever fail
+GT4500,0,0,10,0
+TORPEDO,ALL #should fire secondary

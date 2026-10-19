@@ -1,0 +1,4 @@
+#It can never shoot, if secondary has enough ammunition, primary has none, and secondary always fails, and primary never fails
+# Create a ship with enough ammunition in secondary, none in primary, secondary always fails, primary never fails
+GT4500,0,0,10,1
+TORPEDO,ALL #should not fire

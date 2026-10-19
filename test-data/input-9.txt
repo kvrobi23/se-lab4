@@ -1,0 +1,6 @@
+#Can never shoot it's secondary, but can shoot (every second time, after the firts one) it's primary, if failrate is 1 for secondary but zero for primary
+#Create ship with enough ammunition, that always fails it's secondary, but never it's primary
+GT4500,10,0,10,1
+TORPEDO,SINGLE  # should fire primary
+TORPEDO,SINGLE  # should not fire
+TORPEDO,SINGLE  # should fire primary
