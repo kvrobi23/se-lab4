@@ -1,0 +1,6 @@
+#Can never shoot, if it only has ammunition in it's secondary, none in it's primary, and it's secondary's failrate is 1, and it's primary's is 0
+#Create ship with enough ammunition in it's secondary, and zero in it's primary, that always fails it's secondary, but never it's primary
+GT4500,0,0,10,1
+TORPEDO,SINGLE  # should not fire
+TORPEDO,SINGLE  # should not fire
+TORPEDO,SINGLE  # should not fire

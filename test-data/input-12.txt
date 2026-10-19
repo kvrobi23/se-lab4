@@ -1,0 +1,4 @@
+#It can shoot atleast one torpedo if it has ammunition in both, and it can never fail
+# Create a ship with stocked torpedo stores that never fail
+GT4500,10,0,10,0
+TORPEDO,ALL #should fire both

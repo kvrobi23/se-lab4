@@ -1,0 +1,4 @@
+#It can never shoot, if both has enough ammunition, and both always fail
+# Create a ship with enough ammunition, both always fail
+GT4500,10,1,10,1
+TORPEDO,ALL #should not fire

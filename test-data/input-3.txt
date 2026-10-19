@@ -1,0 +1,5 @@
+#Can't shoot if empty test2
+#Create ship with 1 ammunition, that can't fail
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # should fire primary
+TORPEDO,SINGLE  # should not fire
