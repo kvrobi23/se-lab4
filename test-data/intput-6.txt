@@ -1,0 +1,6 @@
+#Can shoot secondary if primary is empty
+#Create ship with enough ammunition in the secondary, but none in primary, that can't fail
+GT4500,0,0,10,0
+TORPEDO,SINGLE  # should fire secondary
+TORPEDO,SINGLE  # should fire secondary
+TORPEDO,SINGLE  # should fire secondary

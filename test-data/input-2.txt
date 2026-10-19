@@ -1,0 +1,4 @@
+#Can't shoot if empty test
+#Create ship with no ammunition, that can't fail
+GT4500,0,0,0,0
+TORPEDO,SINGLE  # should not fire
